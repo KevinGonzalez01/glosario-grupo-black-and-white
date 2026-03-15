@@ -14,9 +14,11 @@
 *(Esta sección será completada por el Estudiante 3)*
 ---
 ## Términos Generales de Programación
--Algoritmo: Secuencia ordenada de pasos lógicos para resolver un problema.
--Variable: Contenedor nombrado que almacena un valor de datos en memoria que puede cambiar.
--Función: Bloque de código reutilizable que realiza una tarea específica.
+-Algoritmo: Secuencia ordenada de pasos lógicos para resolver un problema.  
+---
+-Variable: Contenedor nombrado que almacena un valor de datos en memoria que puede cambiar.  
+---
+-Función: Bloque de código reutilizable que realiza una tarea específica.  
 
 ---
 *Ultima actualización: [14/03/2026]*
