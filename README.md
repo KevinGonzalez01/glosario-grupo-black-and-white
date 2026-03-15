@@ -19,6 +19,6 @@
 -Variable: Contenedor nombrado que almacena un valor de datos en memoria que puede cambiar.  
 ---
 -Función: Bloque de código reutilizable que realiza una tarea específica.  
-
+---
 ---
 *Ultima actualización: [14/03/2026]*
